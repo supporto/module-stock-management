@@ -1,4 +1,4 @@
-module-stock-management
+Stock management
 =======================
 
 Stock management module
